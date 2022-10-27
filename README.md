@@ -8,6 +8,6 @@ Node 16.15
 
 ## Running project
 
-bundle exec rails server
+`bundle exec rails server`
 
-./bin/webpack-dev-server
+`./bin/webpack-dev-server`
