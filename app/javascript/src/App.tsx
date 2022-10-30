@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-const App = () => {
+const App: React.FC = () => {
   return (
     <div className="text-gray-800 bg-red-600">React World</div>
   );
